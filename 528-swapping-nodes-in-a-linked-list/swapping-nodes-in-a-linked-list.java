@@ -12,7 +12,7 @@ class Solution {
     public ListNode swapNodes(ListNode head, int k) {
         ListNode current = head;
         ListNode firstNode=head;
-        ListNode secondNode =head;
+        ListNode secondNode =current;
 
         int count = 1;
         
