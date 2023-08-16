@@ -26,6 +26,8 @@ class Solution {
                       if(current.val<nextNode.val){
                           result[i]=nextNode.val;
                          break;
+                      }else if(current.val>nextNode.val){
+                          result[i]=0;
                       }
                      nextNode=nextNode.next;
                       }
