@@ -16,12 +16,12 @@
 class Solution {
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>>result=new ArrayList<>();
-          List<Integer>list=new ArrayList<>();
+        
         if(root==null){
             return result;
         }
         
-          Sum(root,targetSum,list,result);
+          Sum(root,targetSum,new ArrayList(),result);
 return result;
 
     }
