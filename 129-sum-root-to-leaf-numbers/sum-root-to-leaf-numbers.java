@@ -14,27 +14,30 @@
  * }
  */
 class Solution {
+    int result;
     public int sumNumbers(TreeNode root) {
        
-    
-       return Sum(root, 0);
+      
+        Sum(root, 0);
+        return result;
        
     }
 
-    private int Sum(TreeNode root, int sum) {
+    private void Sum(TreeNode root, int sum) {
         if (root == null) {
-            return 0;
+            return ;
         }
 
        sum=sum*10+root.val;
 
         if (root.left == null && root.right == null) {
-         return sum;
+            result+=sum;
+         return;
             
         }
 
-        int leftsum=Sum(root.left, sum);
-        int rightsum=Sum(root.right, sum);
-        return leftsum+rightsum;
+       Sum(root.left, sum);
+        Sum(root.right, sum);
+       
     }
 }
