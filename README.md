@@ -4,6 +4,7 @@
 # Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Sup61275/coding-days/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Sup61275/coding-days/tree/master/0279-perfect-squares) |
 # Dynamic Programming
 |  |
