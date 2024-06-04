@@ -33,6 +33,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sup61275/coding-days/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Sup61275/coding-days/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sup61275/coding-days/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -45,8 +46,17 @@
 # Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 # Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sup61275/coding-days/tree/master/0020-valid-parentheses) |
+# Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
