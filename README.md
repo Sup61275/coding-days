@@ -31,6 +31,7 @@
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sup61275/coding-days/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Sup61275/coding-days/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sup61275/coding-days/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -45,3 +46,7 @@
 |  |
 | ------- |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sup61275/coding-days/tree/master/0020-valid-parentheses) |
