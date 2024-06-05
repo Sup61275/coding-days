@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Sup61275/coding-days/tree/master/0413-arithmetic-slices) |
+| [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
 # Two Pointers
@@ -35,6 +36,7 @@
 | [0344-reverse-string](https://github.com/Sup61275/coding-days/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sup61275/coding-days/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sup61275/coding-days/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -59,6 +61,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sup61275/coding-days/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 # Bit Manipulation
 |  |
 | ------- |
