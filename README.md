@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Sup61275/coding-days/tree/master/0413-arithmetic-slices) |
+| [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sup61275/coding-days/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sup61275/coding-days/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Binary Search
 |  |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
+| [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 # Stack
 |  |
@@ -61,6 +64,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sup61275/coding-days/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 # Bit Manipulation
 |  |
