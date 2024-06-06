@@ -11,6 +11,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Sup61275/coding-days/tree/master/0279-perfect-squares) |
 | [0413-arithmetic-slices](https://github.com/Sup61275/coding-days/tree/master/0413-arithmetic-slices) |
+| [0806-domino-and-tromino-tiling](https://github.com/Sup61275/coding-days/tree/master/0806-domino-and-tromino-tiling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
 # Breadth-First Search
