@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Sup61275/coding-days/tree/master/0279-perfect-squares) |
+| [0433-minimum-genetic-mutation](https://github.com/Sup61275/coding-days/tree/master/0433-minimum-genetic-mutation) |
 # Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0344-reverse-string](https://github.com/Sup61275/coding-days/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sup61275/coding-days/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/Sup61275/coding-days/tree/master/0433-minimum-genetic-mutation) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sup61275/coding-days/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -71,6 +73,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sup61275/coding-days/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/Sup61275/coding-days/tree/master/0433-minimum-genetic-mutation) |
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
