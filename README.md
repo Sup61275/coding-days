@@ -82,6 +82,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sup61275/coding-days/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sup61275/coding-days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Bit Manipulation
@@ -105,3 +106,15 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Sup61275/coding-days/tree/master/1137-height-checker) |
+# Depth-First Search
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sup61275/coding-days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+# Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sup61275/coding-days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+# Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sup61275/coding-days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
