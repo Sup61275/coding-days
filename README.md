@@ -33,6 +33,7 @@
 | [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Sup61275/coding-days/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Sup61275/coding-days/tree/master/1217-relative-sort-array) |
 | [1324-where-will-the-ball-fall](https://github.com/Sup61275/coding-days/tree/master/1324-where-will-the-ball-fall) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -69,6 +70,7 @@
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Sup61275/coding-days/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Sup61275/coding-days/tree/master/1217-relative-sort-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Stack
@@ -86,6 +88,7 @@
 | [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sup61275/coding-days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/Sup61275/coding-days/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Bit Manipulation
 |  |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Sup61275/coding-days/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Sup61275/coding-days/tree/master/1217-relative-sort-array) |
 # Depth-First Search
 |  |
 | ------- |
