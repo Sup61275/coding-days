@@ -23,6 +23,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Sup61275/coding-days/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/Sup61275/coding-days/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Sup61275/coding-days/tree/master/0871-keys-and-rooms) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 # Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1324-where-will-the-ball-fall](https://github.com/Sup61275/coding-days/tree/master/1324-where-will-the-ball-fall) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
 # Two Pointers
 |  |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [1324-where-will-the-ball-fall](https://github.com/Sup61275/coding-days/tree/master/1324-where-will-the-ball-fall) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 # Simulation
 |  |
 | ------- |
