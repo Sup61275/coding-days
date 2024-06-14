@@ -7,6 +7,7 @@
 | [0263-ugly-number](https://github.com/Sup61275/coding-days/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Sup61275/coding-days/tree/master/0279-perfect-squares) |
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
+| [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -15,6 +16,7 @@
 | [0413-arithmetic-slices](https://github.com/Sup61275/coding-days/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Sup61275/coding-days/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sup61275/coding-days/tree/master/0806-domino-and-tromino-tiling) |
+| [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
@@ -42,6 +44,7 @@
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Sup61275/coding-days/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Sup61275/coding-days/tree/master/1217-relative-sort-array) |
+| [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1324-where-will-the-ball-fall](https://github.com/Sup61275/coding-days/tree/master/1324-where-will-the-ball-fall) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -118,6 +121,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sup61275/coding-days/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 # Matrix
 |  |
 | ------- |
@@ -159,3 +163,7 @@
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Sup61275/coding-days/tree/master/0813-all-paths-from-source-to-target) |
+# Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
