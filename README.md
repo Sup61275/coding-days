@@ -8,6 +8,7 @@
 | [0279-perfect-squares](https://github.com/Sup61275/coding-days/tree/master/0279-perfect-squares) |
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
+| [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
 # Breadth-First Search
 |  |
@@ -49,6 +51,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
+| [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sup61275/coding-days/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
@@ -167,3 +170,4 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
