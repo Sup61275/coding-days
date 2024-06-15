@@ -7,6 +7,7 @@
 | [0263-ugly-number](https://github.com/Sup61275/coding-days/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Sup61275/coding-days/tree/master/0279-perfect-squares) |
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
+| [0909-stone-game](https://github.com/Sup61275/coding-days/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
 # Dynamic Programming
@@ -17,6 +18,7 @@
 | [0413-arithmetic-slices](https://github.com/Sup61275/coding-days/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Sup61275/coding-days/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sup61275/coding-days/tree/master/0806-domino-and-tromino-tiling) |
+| [0909-stone-game](https://github.com/Sup61275/coding-days/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
@@ -42,6 +44,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sup61275/coding-days/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
+| [0909-stone-game](https://github.com/Sup61275/coding-days/tree/master/0909-stone-game) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sup61275/coding-days/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Sup61275/coding-days/tree/master/1137-height-checker) |
@@ -169,5 +172,6 @@
 # Game Theory
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/Sup61275/coding-days/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
