@@ -59,6 +59,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sup61275/coding-days/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Sup61275/coding-days/tree/master/3231-minimum-number-of-coins-to-be-added) |
 # Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sup61275/coding-days/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sup61275/coding-days/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Sup61275/coding-days/tree/master/3231-minimum-number-of-coins-to-be-added) |
 # Binary Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sup61275/coding-days/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Sup61275/coding-days/tree/master/3231-minimum-number-of-coins-to-be-added) |
 # Stack
 |  |
 | ------- |
