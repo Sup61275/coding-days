@@ -32,6 +32,7 @@
 | [0547-number-of-provinces](https://github.com/Sup61275/coding-days/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/Sup61275/coding-days/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Sup61275/coding-days/tree/master/0871-keys-and-rooms) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sup61275/coding-days/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Sup61275/coding-days/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 # Array
@@ -126,6 +127,7 @@
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Sup61275/coding-days/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sup61275/coding-days/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Sup61275/coding-days/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Sup61275/coding-days/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sup61275/coding-days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sup61275/coding-days/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Sup61275/coding-days/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 # Union Find
 |  |
@@ -187,3 +190,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Sup61275/coding-days/tree/master/0502-ipo) |
+# Tree
+|  |
+| ------- |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sup61275/coding-days/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
