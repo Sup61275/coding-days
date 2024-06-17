@@ -7,6 +7,7 @@
 | [0263-ugly-number](https://github.com/Sup61275/coding-days/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Sup61275/coding-days/tree/master/0279-perfect-squares) |
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Sup61275/coding-days/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/Sup61275/coding-days/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Sup61275/coding-days/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Sup61275/coding-days/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Sup61275/coding-days/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sup61275/coding-days/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -94,6 +96,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Sup61275/coding-days/tree/master/0633-sum-of-square-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 # Sorting
 |  |
