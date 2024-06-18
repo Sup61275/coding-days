@@ -14,6 +14,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Sup61275/coding-days/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Sup61275/coding-days/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Sup61275/coding-days/tree/master/0279-perfect-squares) |
 | [0413-arithmetic-slices](https://github.com/Sup61275/coding-days/tree/master/0413-arithmetic-slices) |
@@ -40,6 +41,7 @@
 # Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Sup61275/coding-days/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Sup61275/coding-days/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Sup61275/coding-days/tree/master/0198-house-robber) |
 | [0330-patching-array](https://github.com/Sup61275/coding-days/tree/master/0330-patching-array) |
@@ -151,6 +153,7 @@
 # Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Sup61275/coding-days/tree/master/0064-minimum-path-sum) |
 | [1324-where-will-the-ball-fall](https://github.com/Sup61275/coding-days/tree/master/1324-where-will-the-ball-fall) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 # Simulation
