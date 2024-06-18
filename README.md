@@ -20,6 +20,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Sup61275/coding-days/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sup61275/coding-days/tree/master/0806-domino-and-tromino-tiling) |
 | [0909-stone-game](https://github.com/Sup61275/coding-days/tree/master/0909-stone-game) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/Sup61275/coding-days/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
@@ -78,6 +79,7 @@
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sup61275/coding-days/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Sup61275/coding-days/tree/master/0433-minimum-genetic-mutation) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/Sup61275/coding-days/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sup61275/coding-days/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
