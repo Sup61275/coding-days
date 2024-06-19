@@ -55,6 +55,7 @@
 | [0909-stone-game](https://github.com/Sup61275/coding-days/tree/master/0909-stone-game) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sup61275/coding-days/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sup61275/coding-days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/Sup61275/coding-days/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Sup61275/coding-days/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Sup61275/coding-days/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Sup61275/coding-days/tree/master/0853-most-profit-assigning-work) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sup61275/coding-days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sup61275/coding-days/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Sorting
