@@ -1,27 +1,20 @@
 class Solution {
     public int maxValueOfCoins(List<List<Integer>> piles, int k) {
-        int[][]memo=new int[2001][1001];
-        for(int[]row:memo){
-            Arrays.fill(row,-1);
-        }
-        return solve(piles,k,0,memo);
-
+    int n= piles.size();
+    int[][]dp= new int[n+1][k+1];
+    for(int[] row:dp){
+    Arrays.fill(row,0);
     }
-    int solve(List<List<Integer>> piles, int k,int index, int memo[][]){
-        int n =piles.size();
-        if (index >= n|| k == 0) {
-        return 0;
+    for(int i=1;i<=n;i++){
+        for(int coins=0;coins<=k;coins++){
+            int sum=0;
+            for(int curr_coins=0;curr_coins<=Math.min(piles.get(i-1).size(),coins);curr_coins++){
+                if(curr_coins>0)
+                sum+=piles.get(i-1).get(curr_coins-1);
+                dp[i][coins]=Math.max(dp[i][coins],sum+dp[i-1][coins-curr_coins]);
+            }
         }
-        if(memo[k][index]!=-1){
-            return memo[k][index];
-        }
-        int notTake_money =solve(piles,k,index+1,memo);
-        int curr_money=0;
-        int take_money=0;
-        for(int j = 0; j < piles.get(index).size() && j < k; j++){
-            curr_money+=piles.get(index).get(j);
-            take_money=Math.max(take_money,curr_money+solve(piles,k-j-1,index+1,memo));
-        }
-       return memo[k][index]=Math.max(take_money,notTake_money); 
+    }
+    return dp[n][k];
     }
 }
