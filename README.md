@@ -143,6 +143,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sup61275/coding-days/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Sup61275/coding-days/tree/master/0155-min-stack) |
 # Hash Table
 |  |
 | ------- |
@@ -230,3 +231,7 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Sup61275/coding-days/tree/master/1138-grumpy-bookstore-owner) |
+# Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sup61275/coding-days/tree/master/0155-min-stack) |
