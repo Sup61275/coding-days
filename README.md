@@ -25,6 +25,7 @@
 | [0962-flip-string-to-monotone-increasing](https://github.com/Sup61275/coding-days/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Sup61275/coding-days/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
@@ -63,6 +64,7 @@
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1324-where-will-the-ball-fall](https://github.com/Sup61275/coding-days/tree/master/1324-where-will-the-ball-fall) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Sup61275/coding-days/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
@@ -162,6 +164,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sup61275/coding-days/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Sup61275/coding-days/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 # Matrix
 |  |
 | ------- |
