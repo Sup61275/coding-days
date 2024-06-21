@@ -43,6 +43,7 @@
 # Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sup61275/coding-days/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Sup61275/coding-days/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Sup61275/coding-days/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Sup61275/coding-days/tree/master/0198-house-robber) |
@@ -121,6 +122,7 @@
 # Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sup61275/coding-days/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sup61275/coding-days/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [0502-ipo](https://github.com/Sup61275/coding-days/tree/master/0502-ipo) |
