@@ -62,6 +62,7 @@
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sup61275/coding-days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/Sup61275/coding-days/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/Sup61275/coding-days/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Sup61275/coding-days/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1324-where-will-the-ball-fall](https://github.com/Sup61275/coding-days/tree/master/1324-where-will-the-ball-fall) |
@@ -225,3 +226,7 @@
 |  |
 | ------- |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sup61275/coding-days/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/Sup61275/coding-days/tree/master/1138-grumpy-bookstore-owner) |
