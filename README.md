@@ -10,6 +10,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Sup61275/coding-days/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/Sup61275/coding-days/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sup61275/coding-days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
 # Dynamic Programming
 |  |
@@ -67,6 +68,7 @@
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1324-where-will-the-ball-fall](https://github.com/Sup61275/coding-days/tree/master/1324-where-will-the-ball-fall) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sup61275/coding-days/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sup61275/coding-days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Sup61275/coding-days/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
@@ -156,6 +158,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sup61275/coding-days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Sup61275/coding-days/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sup61275/coding-days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sup61275/coding-days/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Bit Manipulation
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Sup61275/coding-days/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sup61275/coding-days/tree/master/1370-count-number-of-nice-subarrays) |
 # Design
 |  |
 | ------- |
