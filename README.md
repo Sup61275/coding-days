@@ -49,6 +49,7 @@
 | [0064-minimum-path-sum](https://github.com/Sup61275/coding-days/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Sup61275/coding-days/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Sup61275/coding-days/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0209-minimum-size-subarray-sum) |
 | [0330-patching-array](https://github.com/Sup61275/coding-days/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Sup61275/coding-days/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Sup61275/coding-days/tree/master/0413-arithmetic-slices) |
@@ -118,6 +119,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sup61275/coding-days/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Sup61275/coding-days/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Sup61275/coding-days/tree/master/0853-most-profit-assigning-work) |
@@ -171,6 +173,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sup61275/coding-days/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sup61275/coding-days/tree/master/0560-subarray-sum-equals-k) |
@@ -237,6 +240,7 @@
 # Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sup61275/coding-days/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1138-grumpy-bookstore-owner](https://github.com/Sup61275/coding-days/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sup61275/coding-days/tree/master/1370-count-number-of-nice-subarrays) |
