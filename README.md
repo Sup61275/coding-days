@@ -80,6 +80,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sup61275/coding-days/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Sup61275/coding-days/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Sup61275/coding-days/tree/master/3231-minimum-number-of-coins-to-be-added) |
 # Two Pointers
 |  |
@@ -245,6 +246,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/Sup61275/coding-days/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sup61275/coding-days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sup61275/coding-days/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Sup61275/coding-days/tree/master/2527-count-subarrays-with-fixed-bounds) |
 # Design
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sup61275/coding-days/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Sup61275/coding-days/tree/master/2527-count-subarrays-with-fixed-bounds) |
 # Ordered Set
 |  |
 | ------- |
@@ -261,3 +264,4 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sup61275/coding-days/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Sup61275/coding-days/tree/master/2527-count-subarrays-with-fixed-bounds) |
