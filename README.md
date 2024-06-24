@@ -61,6 +61,7 @@
 | [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
 | [0909-stone-game](https://github.com/Sup61275/coding-days/tree/master/0909-stone-game) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sup61275/coding-days/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sup61275/coding-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/Sup61275/coding-days/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sup61275/coding-days/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/Sup61275/coding-days/tree/master/1137-height-checker) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sup61275/coding-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Prefix Sum
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0410-split-array-largest-sum](https://github.com/Sup61275/coding-days/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sup61275/coding-days/tree/master/0560-subarray-sum-equals-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sup61275/coding-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1240-stone-game-ii](https://github.com/Sup61275/coding-days/tree/master/1240-stone-game-ii) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Sup61275/coding-days/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 # Matrix
@@ -243,6 +246,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sup61275/coding-days/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sup61275/coding-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Sup61275/coding-days/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sup61275/coding-days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sup61275/coding-days/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -254,6 +258,7 @@
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sup61275/coding-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sup61275/coding-days/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sup61275/coding-days/tree/master/2527-count-subarrays-with-fixed-bounds) |
 # Ordered Set
