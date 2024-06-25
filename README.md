@@ -79,6 +79,7 @@
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sup61275/coding-days/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1582-design-browser-history](https://github.com/Sup61275/coding-days/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sup61275/coding-days/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sup61275/coding-days/tree/master/1675-magnetic-force-between-two-balls) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sup61275/coding-days/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sup61275/coding-days/tree/master/0155-min-stack) |
+| [1582-design-browser-history](https://github.com/Sup61275/coding-days/tree/master/1582-design-browser-history) |
 # Hash Table
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Sup61275/coding-days/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sup61275/coding-days/tree/master/0380-insert-delete-getrandom-o1) |
+| [1582-design-browser-history](https://github.com/Sup61275/coding-days/tree/master/1582-design-browser-history) |
 # Queue
 |  |
 | ------- |
@@ -302,3 +305,12 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Sup61275/coding-days/tree/master/0142-linked-list-cycle-ii) |
+| [1582-design-browser-history](https://github.com/Sup61275/coding-days/tree/master/1582-design-browser-history) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Sup61275/coding-days/tree/master/1582-design-browser-history) |
+# Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Sup61275/coding-days/tree/master/1582-design-browser-history) |
