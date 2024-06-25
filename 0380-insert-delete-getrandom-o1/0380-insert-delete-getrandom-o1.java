@@ -1,21 +1,25 @@
 class RandomizedSet {
     List<Integer>list;
+    Set<Integer>set;
     public RandomizedSet() {
         list= new ArrayList<>();
+        set= new HashSet<>();
     }
     
     public boolean insert(int val) {
-        if(list.contains(val)){
+        if(set.contains(val)){
             return false;
         }
+        set.add(val);
         list.add(val);
         return true;
     }
     
     public boolean remove(int val) {
-        if(!list.contains(val)){
+        if(!set.contains(val)){
             return false;
         }
+        set.remove(val);
         list.remove(Integer.valueOf(val));
         return true;
     }
