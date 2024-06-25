@@ -6,6 +6,7 @@
 | ------- |
 | [0263-ugly-number](https://github.com/Sup61275/coding-days/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Sup61275/coding-days/tree/master/0279-perfect-squares) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sup61275/coding-days/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Sup61275/coding-days/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/Sup61275/coding-days/tree/master/0909-stone-game) |
@@ -51,6 +52,7 @@
 | [0198-house-robber](https://github.com/Sup61275/coding-days/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0209-minimum-size-subarray-sum) |
 | [0330-patching-array](https://github.com/Sup61275/coding-days/tree/master/0330-patching-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sup61275/coding-days/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Sup61275/coding-days/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Sup61275/coding-days/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Sup61275/coding-days/tree/master/0416-partition-equal-subset-sum) |
@@ -155,6 +157,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sup61275/coding-days/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sup61275/coding-days/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Sup61275/coding-days/tree/master/0433-minimum-genetic-mutation) |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sup61275/coding-days/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sup61275/coding-days/tree/master/0380-insert-delete-getrandom-o1) |
 # Queue
 |  |
 | ------- |
@@ -284,3 +288,7 @@
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sup61275/coding-days/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sup61275/coding-days/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sup61275/coding-days/tree/master/0380-insert-delete-getrandom-o1) |
