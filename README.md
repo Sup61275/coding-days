@@ -51,6 +51,7 @@
 | [0075-sort-colors](https://github.com/Sup61275/coding-days/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Sup61275/coding-days/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Sup61275/coding-days/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/Sup61275/coding-days/tree/master/0330-patching-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sup61275/coding-days/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Sup61275/coding-days/tree/master/0410-split-array-largest-sum) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sup61275/coding-days/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/Sup61275/coding-days/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sup61275/coding-days/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Sup61275/coding-days/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Sup61275/coding-days/tree/master/0853-most-profit-assigning-work) |
@@ -174,6 +176,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sup61275/coding-days/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Sup61275/coding-days/tree/master/0389-find-the-difference) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sup61275/coding-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Prefix Sum
@@ -281,6 +284,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sup61275/coding-days/tree/master/0287-find-the-duplicate-number) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sup61275/coding-days/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sup61275/coding-days/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
