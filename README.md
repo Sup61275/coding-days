@@ -4,6 +4,7 @@
 # Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sup61275/coding-days/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/Sup61275/coding-days/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Sup61275/coding-days/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sup61275/coding-days/tree/master/0380-insert-delete-getrandom-o1) |
@@ -326,3 +327,7 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Sup61275/coding-days/tree/master/1285-balance-a-binary-search-tree) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sup61275/coding-days/tree/master/0050-powx-n) |
