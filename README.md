@@ -30,6 +30,7 @@
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Sup61275/coding-days/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sup61275/coding-days/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2360-substring-with-largest-variance](https://github.com/Sup61275/coding-days/tree/master/2360-substring-with-largest-variance) |
 # Breadth-First Search
 |  |
@@ -80,6 +81,7 @@
 | [1522-stone-game-iii](https://github.com/Sup61275/coding-days/tree/master/1522-stone-game-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sup61275/coding-days/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/Sup61275/coding-days/tree/master/1582-design-browser-history) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sup61275/coding-days/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sup61275/coding-days/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sup61275/coding-days/tree/master/1675-magnetic-force-between-two-balls) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -267,6 +269,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/Sup61275/coding-days/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sup61275/coding-days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sup61275/coding-days/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sup61275/coding-days/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sup61275/coding-days/tree/master/2527-count-subarrays-with-fixed-bounds) |
 # Design
 |  |
