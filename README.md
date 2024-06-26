@@ -119,6 +119,7 @@
 | [0853-most-profit-assigning-work](https://github.com/Sup61275/coding-days/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Sup61275/coding-days/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sup61275/coding-days/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sup61275/coding-days/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sup61275/coding-days/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1503-reducing-dishes](https://github.com/Sup61275/coding-days/tree/master/1503-reducing-dishes) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sup61275/coding-days/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -218,6 +219,7 @@
 | [0871-keys-and-rooms](https://github.com/Sup61275/coding-days/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sup61275/coding-days/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sup61275/coding-days/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sup61275/coding-days/tree/master/1285-balance-a-binary-search-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sup61275/coding-days/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Sup61275/coding-days/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 # Union Find
@@ -254,6 +256,7 @@
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sup61275/coding-days/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sup61275/coding-days/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sup61275/coding-days/tree/master/1285-balance-a-binary-search-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Sup61275/coding-days/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Sliding Window
 |  |
@@ -292,11 +295,13 @@
 | [0287-find-the-duplicate-number](https://github.com/Sup61275/coding-days/tree/master/0287-find-the-duplicate-number) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sup61275/coding-days/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sup61275/coding-days/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sup61275/coding-days/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sup61275/coding-days/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sup61275/coding-days/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sup61275/coding-days/tree/master/1285-balance-a-binary-search-tree) |
 # Randomized
 |  |
 | ------- |
@@ -314,3 +319,7 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Sup61275/coding-days/tree/master/1582-design-browser-history) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Sup61275/coding-days/tree/master/1285-balance-a-binary-search-tree) |
