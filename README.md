@@ -50,6 +50,7 @@
 | [0056-merge-intervals](https://github.com/Sup61275/coding-days/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sup61275/coding-days/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Sup61275/coding-days/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Sup61275/coding-days/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sup61275/coding-days/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Sup61275/coding-days/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sup61275/coding-days/tree/master/0209-minimum-size-subarray-sum) |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sup61275/coding-days/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Sup61275/coding-days/tree/master/0074-search-a-2d-matrix) |
 | [1324-where-will-the-ball-fall](https://github.com/Sup61275/coding-days/tree/master/1324-where-will-the-ball-fall) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Sup61275/coding-days/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 # Simulation
@@ -296,6 +298,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sup61275/coding-days/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Sup61275/coding-days/tree/master/0287-find-the-duplicate-number) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sup61275/coding-days/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sup61275/coding-days/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
