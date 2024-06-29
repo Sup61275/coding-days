@@ -358,6 +358,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sup61275/coding-days/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sup61275/coding-days/tree/master/0048-rotate-image) |
+| [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
 | ------- |
@@ -390,4 +392,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sup61275/coding-days/tree/master/0048-rotate-image) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
