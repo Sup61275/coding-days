@@ -378,4 +378,16 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sup61275/coding-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sup61275/coding-days/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sup61275/coding-days/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sup61275/coding-days/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
