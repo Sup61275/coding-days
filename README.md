@@ -340,6 +340,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sup61275/coding-days/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -351,6 +352,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sup61275/coding-days/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
@@ -362,6 +364,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sup61275/coding-days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
+| [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 ## String
 |  |
@@ -388,6 +391,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Sup61275/coding-days/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
+| [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 ## Math
 |  |
