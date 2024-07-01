@@ -370,6 +370,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sup61275/coding-days/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sliding Window
 |  |
 | ------- |
@@ -377,6 +378,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sup61275/coding-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -424,4 +426,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
