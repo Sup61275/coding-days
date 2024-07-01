@@ -364,6 +364,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sup61275/coding-days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 ## String
@@ -431,6 +432,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
@@ -440,4 +442,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sup61275/coding-days/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
