@@ -1,47 +1,22 @@
 class LRUCache {
     private int capacity;
-    private LinkedList<ListNode> list;
-    private Map<Integer, ListNode> map; // Store key to ListNode mapping
-    class ListNode {
-        int key;
-        int value;
-        public ListNode(int key, int value) {
-            this.key = key;
-            this.value = value;
-        }
-    }
+    private LinkedHashMap<Integer,Integer>map;
 
     public LRUCache(int capacity) {
         this.capacity = capacity;
-        list = new LinkedList<>();
-        map = new HashMap<>();
+        this.map= new LinkedHashMap<Integer,Integer>(capacity,0.75f,true){
+            protected boolean removeEldestEntry(Map.Entry<Integer,Integer>entry){
+                return size()>capacity;
+            }
+        };
     }
 
     public int get(int key) {
-        if (!map.containsKey(key)) {
-            return -1;
-        }
-        ListNode node = map.get(key);
-        list.remove(node); // Remove from current position
-        list.addFirst(node); // Add to front as it is most recently used
-        return node.value;
+      return map.getOrDefault(key,-1);
     }
 
     public void put(int key, int value) {
-        if (map.containsKey(key)) {
-            ListNode node = map.get(key);
-            list.remove(node); // Remove old node
-            node.value = value; // Update value
-            list.addFirst(node); // Add updated node to front
-        } else {
-            if (list.size() == capacity) {
-                ListNode remove = list.removeLast(); // Remove least recently used node
-                map.remove(remove.key); // Remove from map
-            }
-            ListNode newNode = new ListNode(key, value);
-            list.addFirst(newNode); // Add new node to front
-            map.put(key, newNode); // Put new node in map
-        }
+       map.put(key,value);
     }
 }
 /**
