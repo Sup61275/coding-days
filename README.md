@@ -389,6 +389,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sup61275/coding-days/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
@@ -407,4 +408,20 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Sup61275/coding-days/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
