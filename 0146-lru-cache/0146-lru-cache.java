@@ -19,9 +19,7 @@ class LRUCache {
        map.put(key,value);
     }
 }
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache obj = new LRUCache(capacity);
- * int param_1 = obj.get(key);
- * obj.put(key,value);
- */
+//In Java, to override a method from a superclass, 
+//the method in the subclass must have the same or less restrictive access level.
+//The removeEldestEntry method in LinkedHashMap is protected,
+//so the overriding method in the anonymous subclass must also be protected.
