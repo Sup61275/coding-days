@@ -5,17 +5,18 @@ class Solution {
         while(startValue!=target){
            if(startValue>target){
             startValue--;
-            ans++;
+           
            }else{
             if(target%2==0){
                 target/=2;
-                ans++;
+               
             }else{
                 target++;
-                ans++;
+               
             }
-           }
             
+           }
+            ans++;
         }
         return ans;
     }
