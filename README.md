@@ -341,6 +341,7 @@
 |  |
 | ------- |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
+| [1033-broken-calculator](https://github.com/Sup61275/coding-days/tree/master/1033-broken-calculator) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sup61275/coding-days/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -407,6 +408,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sup61275/coding-days/tree/master/0048-rotate-image) |
+| [1033-broken-calculator](https://github.com/Sup61275/coding-days/tree/master/1033-broken-calculator) |
 ## Matrix
 |  |
 | ------- |
