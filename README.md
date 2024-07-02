@@ -396,6 +396,7 @@
 | [0048-rotate-image](https://github.com/Sup61275/coding-days/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sup61275/coding-days/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
+| [0498-diagonal-traverse](https://github.com/Sup61275/coding-days/tree/master/0498-diagonal-traverse) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Sup61275/coding-days/tree/master/1293-three-consecutive-odds) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
@@ -408,6 +409,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Sup61275/coding-days/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sup61275/coding-days/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Sup61275/coding-days/tree/master/0498-diagonal-traverse) |
 ## Union Find
 |  |
 | ------- |
@@ -442,6 +444,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sup61275/coding-days/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Sup61275/coding-days/tree/master/0498-diagonal-traverse) |
 ## Linked List
 |  |
 | ------- |
