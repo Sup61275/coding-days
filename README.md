@@ -343,6 +343,7 @@
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [1033-broken-calculator](https://github.com/Sup61275/coding-days/tree/master/1033-broken-calculator) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sup61275/coding-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sup61275/coding-days/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -376,6 +377,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sup61275/coding-days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sliding Window
 |  |
 | ------- |
@@ -406,6 +408,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/Sup61275/coding-days/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/Sup61275/coding-days/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sup61275/coding-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 ## Math
 |  |
@@ -433,6 +436,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
 | ------- |
