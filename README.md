@@ -340,6 +340,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Sup61275/coding-days/tree/master/0135-candy) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [1033-broken-calculator](https://github.com/Sup61275/coding-days/tree/master/1033-broken-calculator) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sup61275/coding-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -407,6 +408,7 @@
 | [0054-spiral-matrix](https://github.com/Sup61275/coding-days/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sup61275/coding-days/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Sup61275/coding-days/tree/master/0135-candy) |
 | [0498-diagonal-traverse](https://github.com/Sup61275/coding-days/tree/master/0498-diagonal-traverse) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sup61275/coding-days/tree/master/1253-sort-the-matrix-diagonally) |
