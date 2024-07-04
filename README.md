@@ -460,10 +460,12 @@
 | [0054-spiral-matrix](https://github.com/Sup61275/coding-days/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sup61275/coding-days/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Sup61275/coding-days/tree/master/0498-diagonal-traverse) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Sup61275/coding-days/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Sup61275/coding-days/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Doubly-Linked List
 |  |
 | ------- |
