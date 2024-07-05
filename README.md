@@ -347,6 +347,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Sup61275/coding-days/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sup61275/coding-days/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sup61275/coding-days/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -377,6 +378,7 @@
 | [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## String
 |  |
 | ------- |
@@ -417,6 +419,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Sup61275/coding-days/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sup61275/coding-days/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Math
 |  |
@@ -479,4 +482,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
+## Counting
+|  |
+| ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 <!---LeetCode Topics End-->
