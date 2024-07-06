@@ -9,11 +9,5 @@ class Solution {
             return 2 * n - effectiveTime - 1;
         }
     }
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        int n1 = 4, time1 = 5;
-        System.out.println(sol.passThePillow(n1, time1)); 
-        int n2 = 3, time2 = 2;
-        System.out.println(sol.passThePillow(n2, time2));
-    }
+   
 }
