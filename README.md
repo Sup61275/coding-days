@@ -360,6 +360,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Sup61275/coding-days/tree/master/0274-h-index) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sup61275/coding-days/tree/master/1253-sort-the-matrix-diagonally) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sup61275/coding-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -413,6 +414,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sup61275/coding-days/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sup61275/coding-days/tree/master/0135-candy) |
+| [0274-h-index](https://github.com/Sup61275/coding-days/tree/master/0274-h-index) |
 | [0498-diagonal-traverse](https://github.com/Sup61275/coding-days/tree/master/0498-diagonal-traverse) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sup61275/coding-days/tree/master/1253-sort-the-matrix-diagonally) |
@@ -503,4 +505,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sup61275/coding-days/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Sup61275/coding-days/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
