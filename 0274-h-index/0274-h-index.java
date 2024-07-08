@@ -1,17 +1,12 @@
 class Solution {
     public int hIndex(int[] citations) {
-        int n=citations.length;
-     
-      
         Arrays.sort(citations);
-        for(int i=0;i<n;i++){
-            int var1=citations[i];
-            int var2=n-i;
-            if(var2<=var1){
-                return var2;
+        int n = citations.length;
+        for (int i = 0; i < n; i++) {
+        if (citations[i] >= n-i) {
+            return n-i;
             }
         }
-
         return 0;
      
     }
