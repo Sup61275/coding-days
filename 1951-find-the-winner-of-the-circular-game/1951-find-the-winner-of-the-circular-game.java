@@ -5,9 +5,11 @@ class Solution {
             que.add(i);
         }
         while(que.size()>1){
-           for(int i=0;i<k-1;i++){
+            int i=0;
+         while(i<k-1){
             int remove_ele=que.poll();
             que.add(remove_ele);
+            i++;
            }
             que.poll();
         }
