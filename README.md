@@ -387,6 +387,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sup61275/coding-days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [1293-three-consecutive-odds](https://github.com/Sup61275/coding-days/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sup61275/coding-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Sup61275/coding-days/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sup61275/coding-days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
@@ -461,6 +463,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
+| [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
