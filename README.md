@@ -424,6 +424,7 @@
 | [0274-h-index](https://github.com/Sup61275/coding-days/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sup61275/coding-days/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Sup61275/coding-days/tree/master/0498-diagonal-traverse) |
+| [0739-daily-temperatures](https://github.com/Sup61275/coding-days/tree/master/0739-daily-temperatures) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sup61275/coding-days/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/Sup61275/coding-days/tree/master/1293-three-consecutive-odds) |
@@ -472,6 +473,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Sup61275/coding-days/tree/master/0071-simplify-path) |
+| [0739-daily-temperatures](https://github.com/Sup61275/coding-days/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Sup61275/coding-days/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sup61275/coding-days/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
@@ -479,6 +481,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Sup61275/coding-days/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Sup61275/coding-days/tree/master/0937-online-stock-span) |
 ## Design
 |  |
