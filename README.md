@@ -347,6 +347,7 @@
 | [1033-broken-calculator](https://github.com/Sup61275/coding-days/tree/master/1033-broken-calculator) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sup61275/coding-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Sup61275/coding-days/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Sup61275/coding-days/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -393,6 +394,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sup61275/coding-days/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Sup61275/coding-days/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -477,6 +479,7 @@
 | [0937-online-stock-span](https://github.com/Sup61275/coding-days/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sup61275/coding-days/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Sup61275/coding-days/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
