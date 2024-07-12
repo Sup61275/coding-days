@@ -472,17 +472,20 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Sup61275/coding-days/tree/master/0071-simplify-path) |
+| [0937-online-stock-span](https://github.com/Sup61275/coding-days/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sup61275/coding-days/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/Sup61275/coding-days/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0937-online-stock-span](https://github.com/Sup61275/coding-days/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -524,4 +527,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sup61275/coding-days/tree/master/0274-h-index) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Sup61275/coding-days/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
