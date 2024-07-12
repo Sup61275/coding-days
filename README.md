@@ -391,6 +391,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sup61275/coding-days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/Sup61275/coding-days/tree/master/0071-simplify-path) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sup61275/coding-days/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sup61275/coding-days/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
@@ -477,6 +478,7 @@
 | [0071-simplify-path](https://github.com/Sup61275/coding-days/tree/master/0071-simplify-path) |
 | [0739-daily-temperatures](https://github.com/Sup61275/coding-days/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Sup61275/coding-days/tree/master/0937-online-stock-span) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sup61275/coding-days/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sup61275/coding-days/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sup61275/coding-days/tree/master/1818-maximum-score-from-removing-substrings) |
