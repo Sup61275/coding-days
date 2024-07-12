@@ -396,6 +396,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sup61275/coding-days/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2470-removing-stars-from-a-string](https://github.com/Sup61275/coding-days/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -482,6 +483,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sup61275/coding-days/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sup61275/coding-days/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2470-removing-stars-from-a-string](https://github.com/Sup61275/coding-days/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -508,6 +510,7 @@
 | [1803-average-waiting-time](https://github.com/Sup61275/coding-days/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sup61275/coding-days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sup61275/coding-days/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2470-removing-stars-from-a-string](https://github.com/Sup61275/coding-days/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/Sup61275/coding-days/tree/master/2645-pass-the-pillow) |
 ## Linked List
 |  |
