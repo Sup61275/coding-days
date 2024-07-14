@@ -371,6 +371,7 @@
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Sup61275/coding-days/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sup61275/coding-days/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sup61275/coding-days/tree/master/2379-maximum-total-importance-of-roads) |
+| [2846-robot-collisions](https://github.com/Sup61275/coding-days/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -442,6 +443,7 @@
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Sup61275/coding-days/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sup61275/coding-days/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2846-robot-collisions](https://github.com/Sup61275/coding-days/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -486,6 +488,7 @@
 | [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sup61275/coding-days/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/Sup61275/coding-days/tree/master/2470-removing-stars-from-a-string) |
+| [2846-robot-collisions](https://github.com/Sup61275/coding-days/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -515,6 +518,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sup61275/coding-days/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/Sup61275/coding-days/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/Sup61275/coding-days/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/Sup61275/coding-days/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
 | ------- |
