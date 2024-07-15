@@ -387,6 +387,7 @@
 | [0726-number-of-atoms](https://github.com/Sup61275/coding-days/tree/master/0726-number-of-atoms) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Sup61275/coding-days/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## String
 |  |
@@ -444,6 +445,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sup61275/coding-days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Sup61275/coding-days/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Sup61275/coding-days/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sup61275/coding-days/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2846-robot-collisions](https://github.com/Sup61275/coding-days/tree/master/2846-robot-collisions) |
@@ -553,4 +555,12 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Sup61275/coding-days/tree/master/0937-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Sup61275/coding-days/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Sup61275/coding-days/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
