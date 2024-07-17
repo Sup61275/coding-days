@@ -418,6 +418,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sup61275/coding-days/tree/master/0102-binary-tree-level-order-traversal) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sup61275/coding-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -564,6 +565,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sup61275/coding-days/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sup61275/coding-days/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sup61275/coding-days/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -571,6 +573,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sup61275/coding-days/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sup61275/coding-days/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sup61275/coding-days/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
