@@ -23,24 +23,6 @@ class Solution {
             }
             map_col.put(j, maxCol_element); 
         }
-        
-        Map<Integer, int[]> get_row = new HashMap<>();
-        for (int i = 0; i < m; i++) {
-            int[] row = new int[n];
-            for (int j = 0; j < n; j++) {
-               row[j] = matrix[i][j]; 
-            }
-            get_row.put(i, row);
-        }
-        
-        Map<Integer, int[]> get_col = new HashMap<>(); 
-        for (int j = 0; j < n; j++) {
-            int[] col = new int[m];
-            for (int i = 0; i < m; i++) {
-                col[i] = matrix[i][j];
-            }
-            get_col.put(j, col); 
-        }
 
         for (int i = 0; i < m; i++) {
             int minRowEle = map_row.get(i);
