@@ -447,6 +447,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Sup61275/coding-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sup61275/coding-days/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/Sup61275/coding-days/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sup61275/coding-days/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sup61275/coding-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Sup61275/coding-days/tree/master/1720-crawler-log-folder) |
@@ -475,6 +476,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Sup61275/coding-days/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Sup61275/coding-days/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sup61275/coding-days/tree/master/1253-sort-the-matrix-diagonally) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sup61275/coding-days/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Union Find
 |  |
 | ------- |
