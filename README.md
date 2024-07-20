@@ -415,6 +415,7 @@
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Sup61275/coding-days/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/Sup61275/coding-days/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Sup61275/coding-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sup61275/coding-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -424,6 +425,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sup61275/coding-days/tree/master/0102-binary-tree-level-order-traversal) |
+| [0623-add-one-row-to-tree](https://github.com/Sup61275/coding-days/tree/master/0623-add-one-row-to-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sup61275/coding-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
@@ -579,6 +581,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sup61275/coding-days/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Sup61275/coding-days/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/Sup61275/coding-days/tree/master/0832-binary-tree-pruning) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Sup61275/coding-days/tree/master/1207-delete-nodes-and-return-forest) |
@@ -590,6 +593,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sup61275/coding-days/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Sup61275/coding-days/tree/master/0623-add-one-row-to-tree) |
 | [0832-binary-tree-pruning](https://github.com/Sup61275/coding-days/tree/master/0832-binary-tree-pruning) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Sup61275/coding-days/tree/master/1207-delete-nodes-and-return-forest) |
