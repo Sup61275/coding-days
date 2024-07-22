@@ -375,6 +375,7 @@
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Sup61275/coding-days/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sup61275/coding-days/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sup61275/coding-days/tree/master/2379-maximum-total-importance-of-roads) |
+| [2502-sort-the-people](https://github.com/Sup61275/coding-days/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Sup61275/coding-days/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
@@ -393,6 +394,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sup61275/coding-days/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2502-sort-the-people](https://github.com/Sup61275/coding-days/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -407,6 +409,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sup61275/coding-days/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sup61275/coding-days/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2470-removing-stars-from-a-string](https://github.com/Sup61275/coding-days/tree/master/2470-removing-stars-from-a-string) |
+| [2502-sort-the-people](https://github.com/Sup61275/coding-days/tree/master/2502-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -469,6 +472,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Sup61275/coding-days/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sup61275/coding-days/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Sup61275/coding-days/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Sup61275/coding-days/tree/master/2846-robot-collisions) |
 ## Math
 |  |
