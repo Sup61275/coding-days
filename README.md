@@ -391,6 +391,7 @@
 | [0036-valid-sudoku](https://github.com/Sup61275/coding-days/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Sup61275/coding-days/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sup61275/coding-days/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sup61275/coding-days/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
 | [0726-number-of-atoms](https://github.com/Sup61275/coding-days/tree/master/0726-number-of-atoms) |
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
@@ -511,6 +512,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sup61275/coding-days/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Sup61275/coding-days/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sup61275/coding-days/tree/master/0142-linked-list-cycle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -568,6 +570,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sup61275/coding-days/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sup61275/coding-days/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sup61275/coding-days/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sup61275/coding-days/tree/master/2299-merge-nodes-in-between-zeros) |
