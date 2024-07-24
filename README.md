@@ -401,6 +401,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/Sup61275/coding-days/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sup61275/coding-days/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2502-sort-the-people](https://github.com/Sup61275/coding-days/tree/master/2502-sort-the-people) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sup61275/coding-days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -482,6 +483,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/Sup61275/coding-days/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Sup61275/coding-days/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Sup61275/coding-days/tree/master/2846-robot-collisions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sup61275/coding-days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -574,6 +576,7 @@
 | [0146-lru-cache](https://github.com/Sup61275/coding-days/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sup61275/coding-days/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sup61275/coding-days/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sup61275/coding-days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
