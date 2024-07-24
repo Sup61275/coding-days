@@ -371,6 +371,7 @@
 | [0991-array-of-doubled-pairs](https://github.com/Sup61275/coding-days/tree/master/0991-array-of-doubled-pairs) |
 | [1184-car-pooling](https://github.com/Sup61275/coding-days/tree/master/1184-car-pooling) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sup61275/coding-days/tree/master/1253-sort-the-matrix-diagonally) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Sup61275/coding-days/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sup61275/coding-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sup61275/coding-days/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sup61275/coding-days/tree/master/2117-find-original-array-from-doubled-array) |
@@ -467,6 +468,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Sup61275/coding-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sup61275/coding-days/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/Sup61275/coding-days/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Sup61275/coding-days/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sup61275/coding-days/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sup61275/coding-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sup61275/coding-days/tree/master/1700-minimum-time-to-make-rope-colorful) |
