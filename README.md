@@ -430,6 +430,7 @@
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sup61275/coding-days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Sup61275/coding-days/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Sup61275/coding-days/tree/master/0652-find-duplicate-subtrees) |
 | [0832-binary-tree-pruning](https://github.com/Sup61275/coding-days/tree/master/0832-binary-tree-pruning) |
@@ -615,6 +616,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sup61275/coding-days/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Sup61275/coding-days/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Sup61275/coding-days/tree/master/0652-find-duplicate-subtrees) |
 | [0832-binary-tree-pruning](https://github.com/Sup61275/coding-days/tree/master/0832-binary-tree-pruning) |
@@ -629,6 +631,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sup61275/coding-days/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sup61275/coding-days/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Sup61275/coding-days/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Sup61275/coding-days/tree/master/0652-find-duplicate-subtrees) |
 | [0832-binary-tree-pruning](https://github.com/Sup61275/coding-days/tree/master/0832-binary-tree-pruning) |
